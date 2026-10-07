@@ -1,0 +1,23 @@
+# CMake
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj*
+x64/
+Debug/
+Release/
+
+# JUCE generated artifacts
+JuceLibraryCode/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
